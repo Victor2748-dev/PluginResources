@@ -1,16 +1,16 @@
-ENABLE: aktif et
-ENABLED: aktif edilmiş
-DISABLE: deaktif et
-DISABLED: deaktif edilmiş
+ENABLE: Etkinleştir
+ENABLED: Etkin
+DISABLE: Devre dışı bırak
+DISABLED: Devre dısıdır
 SETTINGS: Ayarlar
-#DAY: Day
-#DAYS: Days
-#HOUR: Hour
-#HOURS: Hours
-#MINUTE: Minute
-#MINUTES: Minutes
-#SECOND: Second
-#SECONDS: Seconds
+#DAY: Gün 
+#DAYS: Günler
+#HOUR: Saat
+#HOURS: Saatler
+#MINUTE: Dakika 
+#MINUTES: Dakikalar
+#SECOND: Saniye
+#SECONDS: Saniyeler
 NONE: Boş
 COMMAND_NOPERMISSION: Bu komuta **erişme** izniniz bulunmamakta
 COMMAND_NOCONSOLE: Bu komut konsoldan kullanılamaz!
