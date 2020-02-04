@@ -4,6 +4,7 @@
 #
 # Format: (Plugin)+(Permission)+(Description)+(Commands (seperated with ,))
 #
+Core+core.kit+PrisonMC Kits command+/kit
 AAC+AAC.admin+View the admin control panel.(view the admin GUI)(Text-based reload without the GUI)+/aacadmin,/aacreload
 AAC+AAC.ban+Ban players.
 AAC+AAC.bypass+Bypass AAC's checks.
